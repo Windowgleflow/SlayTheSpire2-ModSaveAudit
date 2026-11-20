@@ -162,3 +162,4 @@ No copyrighted game files or third-party mods are included in this repository.
 - [ManorLords-SaveModInspector](../ManorLords-SaveModInspector) — Manor Lords UE5 `~mods` isolation & save backup check
 
 *Independent community project. Not affiliated with Mega Crit, Valve, or Steam. All trademarks belong to their respective owners.*
+ 
